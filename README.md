@@ -1,4 +1,4 @@
-# Two_Pointers_Interviewbit_and Leetcode_Python
+# Two_Pointers_Interviewbit_and Leetcode[Python]
     
 | Interviewbit  | Leetcode      | Solution|
 | ------------- |:-------------:| -----:  |
