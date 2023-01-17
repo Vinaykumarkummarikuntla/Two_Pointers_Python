@@ -1,1 +1,1 @@
-# two_pointers_interviewbit_python
+# Two_Pointers_Interviewbit_Python
